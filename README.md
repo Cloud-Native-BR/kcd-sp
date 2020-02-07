@@ -16,16 +16,12 @@
 * Event planning: Every task we open a new issue. Anyone is invited to participate
 
 * Event Organizers:
-  * Ricardo P. Katz - @rikatz - CNCF Ambassador
-  * Anderson Duboc - @duboc - VMWare
   * Alexandre Stratikopoulos - @astratikopoulo - VMWare
+  * Anderson Duboc - @duboc - VMWare
   * Carol Valencia - @krol3 - Sumup Pagamentos
+  * Diego Pinheiro - @s4rd1nh4 - iti Itaú
   * Jhonatan Morais - @jhonatanmorais - C6 Bank
-  * Diego Pinheiro - @s4rd1nh4 - ITI Pagamentos
   * Renato Martins - @rmedivh - Nubank 
+  * Ricardo P. Katz - @rikatz - CNCF Ambassador
+  * Thiago Dias - @nullck - Yara Digital Farming
   * Yago Nobre - @yagonobre - Nubank
-  * Thiago Dias - @nullck - Yara Labs 
-
-
-
-
